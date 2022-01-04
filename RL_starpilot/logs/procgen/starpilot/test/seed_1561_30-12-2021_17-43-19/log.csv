@@ -1,0 +1,2 @@
+timesteps,wall_time,num_episodes,max_episode_rewards,mean_episode_rewards,min_episode_rewards,max_episode_len,mean_episode_len,min_episode_len
+32768.0,224.8189980983734,351.0,7.0,1.225000023841858,0.0,155.0,70.05,15.0

@@ -1,0 +1,2 @@
+timesteps,wall_time,num_episodes,max_episode_rewards,mean_episode_rewards,min_episode_rewards,max_episode_len,mean_episode_len,min_episode_len,loss_pi_loss,loss_v_loss,loss_entropy_loss
+32768.0,30.28193497657776,349.0,6.0,1.2000000476837158,0.0,168.0,81.25,25.0,-0.00022618262543498227,0.5086039075007042,2.70801904797554
