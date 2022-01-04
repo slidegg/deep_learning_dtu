@@ -101,7 +101,7 @@ if __name__=='__main__':
     in_channels = observation_shape[0];
     action_space = env.action_space;
     action_space_size = action_space.n;
-    model = ImpalaModel(in_channels, action_space_size);
+    model = ImpalaModel(in_channels);
     #model = MyModel(in_channels, action_space_size);
 
     print('initializing policy');
